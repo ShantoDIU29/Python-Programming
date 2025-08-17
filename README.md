@@ -1,7 +1,7 @@
 # 🐍 Daily Python Programming
 
 This repository contains **notes, examples, and practice problems** related to **Python programming**, including **OOP concepts**.
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/e6f35bd3-af72-4e38-afd9-90469ee6113a" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e6f35bd3-af72-4e38-afd9-90469ee6113a" />
 
 ---
 
