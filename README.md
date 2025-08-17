@@ -1,46 +1,41 @@
-# Python-Programming
-Daily-Python-Programming/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── Notes/
-│   ├── Day-01_Basics.md
-│   ├── Day-02_Variables_and_Types.md
-│   ├── Day-03_Operators.md
-│   ├── Day-04_Conditions.md
-│   ├── Day-05_Loops.md
-│   ├── Day-06_Functions.md
-│   ├── Day-07_Lists.md
-│   ├── Day-08_Tuples.md
-│   ├── Day-09_Dictionaries.md
-│   ├── Day-10_Sets.md
-│   └── ... (etc)
-│
-├── Examples/
-│   ├── Basics/
-│   │   └── hello_world.py
-│   ├── Variables/
-│   │   └── variable_examples.py
-│   ├── Loops/
-│   │   └── for_while_examples.py
-│   ├── Functions/
-│   │   └── function_examples.py
-│   ├── Lists/
-│   │   └── list_examples.py
-│   └── Dictionaries/
-│       └── dict_examples.py
-│
-├── Practice_Problems/
-│   ├── Day-01/
-│   │   └── practice_basics.py
-│   ├── Day-02/
-│   │   └── practice_variables.py
-│   ├── Day-03/
-│   │   └── practice_operators.py
-│   └── ... (etc)
-│
-└── Resources/
-    ├── cheat_sheet.md
-    └── references.md
+# 🐍 Daily Python Programming
+
+This repository contains **notes, examples, and practice problems** related to **Python programming**, including **OOP concepts**.
+
+---
+
+## 📅 Topics Covered & Daily Log
+
+| Date       | Topic                               | Status       | Notes                                 |
+|------------|-------------------------------------|--------------|---------------------------------------|
+| 2025-08-17 | Variable & Data type               | ✅ Completed  | Basic data type & Variable        |
+| 2025-08-17| Basic Operator                     | ✅ Completed  | Understanding operator       |
+| 2025-08-17 | Conditional statement           | ✅ Completed  | if ,elif,else  and Nested if -elif        |
+
+
+---
+
+## 🚀 How to Use This Repo
+
+- Follow the **daily log** to track your learning.  
+- Add your **notes & examples** inside respective folders.  
+- Solve **Python coding exercises daily** to strengthen your skills.  
+
+---
+
+## 📌 About
+
+This repo is created for **daily Python programming practice**, covering **basics to OOP concepts** step by step.  
+The goal is to **improve Python skills** and become confident in **object-oriented programming**.  
+
+---
+
+## 📬 Contact
+
+👤 **Shanto Roy**  
+📧 Email: **shantosr3559@gmail.com**  
+🌍 Location: Dhaka, Bangladesh  
+
+---
+
+⭐ If you like this repo, don’t forget to **star it on GitHub**!
