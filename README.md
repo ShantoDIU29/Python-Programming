@@ -12,7 +12,10 @@ This repository contains **notes, examples, and practice problems** related to *
 | 2025-08-17 | Variable & Data type               | ✅ Completed  | Basic data type & Variable        |
 | 2025-08-17| Basic Operator                     | ✅ Completed  | Understanding operator       |
 | 2025-08-17 | Conditional statement           | ✅ Completed  | if ,elif,else  and Nested if -elif        |
-| 2025-08- | For Loop              | Next  |      |
+| 2025-18| For Loop              |✅ Completed  |    for loop problem solve  |
+| 2025-18| Function              |✅ Completed  |    Function type default,*kwargs,**kwargs  |
+
+
 
 
 ---
