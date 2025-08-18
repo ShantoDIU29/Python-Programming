@@ -1,6 +1,7 @@
 # 🐍 Daily Python Programming
 
 This repository contains **notes, examples, and practice problems** related to **Python programming**, including **OOP concepts**.
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e6f35bd3-af72-4e38-afd9-90469ee6113a" />
 
 ---
 
@@ -11,6 +12,7 @@ This repository contains **notes, examples, and practice problems** related to *
 | 2025-08-17 | Variable & Data type               | ✅ Completed  | Basic data type & Variable        |
 | 2025-08-17| Basic Operator                     | ✅ Completed  | Understanding operator       |
 | 2025-08-17 | Conditional statement           | ✅ Completed  | if ,elif,else  and Nested if -elif        |
+| 2025-08- | For Loop              | Next  |      |
 
 
 ---
